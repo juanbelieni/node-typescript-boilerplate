@@ -62,6 +62,6 @@ yarn start
 - Github: [@juanbelieni](https://github.com/juanbelieni)
 - LinkedIn: [@juanbelieni](https://linkedin.com/in/juanbelieni)
 
-## ⭐️ Show your support
+## Show your support
 
 Give a ⭐️ if this project helped you!
