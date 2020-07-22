@@ -1,10 +1,14 @@
 {
   "name": "node-typescript-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node template for TypeScript projects",
   "main": "dist/index.js",
   "repository": "https://github.com/juanbelieni/node-typescript-boilerplate",
-  "author": "Juan Belieni <juanbelieni@gmail.com>",
+  "author": {
+    "name": "Juan Belieni",
+    "email": "juanbelieni@gmail.com",
+    "url": "https://juanbelieni.codes"
+  },
   "license": "MIT",
   "scripts": {
     "build": "tsc",
@@ -22,5 +26,8 @@
     "ts-jest": "^26.1.1",
     "ts-node-dev": "^1.0.0-pre.51",
     "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
   }
 }
