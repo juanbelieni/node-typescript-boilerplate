@@ -1,4 +1,5 @@
 <h1 align="center">Node TypeScript Boilerplate</h1>
+<p align="center">Node template for TypeScript projects</p>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,9 +7,7 @@
   </a>
 </p>
 
-> Node template for TypeScript projects
-
-### 🏠 [Homepage](http://github.com/juanbelieni/node-typescript-boilerplate#readme)
+🏠 [Homepage](http://github.com/juanbelieni/node-typescript-boilerplate#readme)
 
 ## Built with
 
