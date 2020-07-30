@@ -6,14 +6,14 @@
   "repository": "https://github.com/juanbelieni/node-typescript-boilerplate",
   "author": {
     "name": "Juan Belieni",
-    "email": "juanbelieni@gmail.com",
-    "url": "https://juanbelieni.codes"
+    "email": "juanbelieni@gmail.com"
   },
   "license": "MIT",
   "scripts": {
     "build": "tsc",
     "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/index.ts",
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch src"
   },
   "devDependencies": {
     "@types/jest": "^26.0.4",
