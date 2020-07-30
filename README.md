@@ -58,7 +58,6 @@ yarn start
 
 👤 **Juan Belieni**
 
-- Website: [juanbelieni.codes](https://juanbelieni.codes)
 - Github: [@juanbelieni](https://github.com/juanbelieni)
 - LinkedIn: [@juanbelieni](https://linkedin.com/in/juanbelieni)
 
